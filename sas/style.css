@@ -1,0 +1,19 @@
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 60px 0;
+}
+ul li {
+  display: inline-block;
+}
+ul li a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  padding: 20px;
+  background-color: darkblue;
+}
+
+body {
+  background-color: darkgray;
+}/*# sourceMappingURL=style.css.map */

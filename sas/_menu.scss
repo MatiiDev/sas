@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 60px 0;
+    li{
+        display: inline-block;
+        a{
+            text:{
+                decoration: none;
+                transform: uppercase;
+            }
+                color: white;
+             padding: 20px;
+             background-color: darkblue;
+        }
+    }
+}
